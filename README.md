@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<a href="https://">Education</a>
+<a href="https://magic-education.netlify.app/">Education</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
